@@ -7,7 +7,7 @@ A comprehensive SQL-driven solution for inventory management optimization using 
 ## Meet Our Team
 
 - **Rahul Jat**
-- **Pranav Jori**  
+- **Bhupendra Jat**  
 - **Vanshita Bihani**  
 - **Arpit Kumar** 
 
